@@ -6,6 +6,7 @@ DSA practice
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thanmai09/leetcode-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
 ## String
 |  |
@@ -19,6 +20,7 @@ DSA practice
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thanmai09/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
