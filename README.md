@@ -8,6 +8,7 @@ DSA practice
 | ------- |
 | [0001-two-sum](https://github.com/thanmai09/leetcode-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
@@ -23,6 +24,7 @@ DSA practice
 | ------- |
 | [0001-two-sum](https://github.com/thanmai09/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -32,9 +34,14 @@ DSA practice
 ## Sliding Window
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+## Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
