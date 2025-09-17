@@ -30,6 +30,7 @@ DSA practice
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/thanmai09/leetcode-problems/tree/master/0069-sqrtx) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -44,4 +45,8 @@ DSA practice
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/thanmai09/leetcode-problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
