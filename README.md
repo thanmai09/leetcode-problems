@@ -8,6 +8,7 @@ DSA practice
 | ------- |
 | [0001-two-sum](https://github.com/thanmai09/leetcode-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/thanmai09/leetcode-problems/tree/master/0027-remove-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
@@ -49,4 +50,8 @@ DSA practice
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/thanmai09/leetcode-problems/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/thanmai09/leetcode-problems/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
