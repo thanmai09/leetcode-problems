@@ -10,6 +10,7 @@ DSA practice
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/thanmai09/leetcode-problems/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/thanmai09/leetcode-problems/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
@@ -17,6 +18,7 @@ DSA practice
 | ------- |
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -68,4 +70,12 @@ DSA practice
 |  |
 | ------- |
 | [0136-single-number](https://github.com/thanmai09/leetcode-problems/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
