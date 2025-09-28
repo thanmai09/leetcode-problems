@@ -34,6 +34,7 @@ DSA practice
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/thanmai09/leetcode-problems/tree/master/0069-sqrtx) |
@@ -64,10 +65,12 @@ DSA practice
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thanmai09/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thanmai09/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 ## Bit Manipulation
 |  |
