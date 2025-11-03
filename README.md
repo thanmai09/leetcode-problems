@@ -19,6 +19,7 @@ DSA practice
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
+| [1205-defanging-an-ip-address](https://github.com/thanmai09/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 ## Trie
 |  |
 | ------- |
