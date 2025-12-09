@@ -9,6 +9,7 @@ DSA practice
 | [0001-two-sum](https://github.com/thanmai09/leetcode-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/thanmai09/leetcode-problems/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thanmai09/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/thanmai09/leetcode-problems/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -95,4 +96,8 @@ DSA practice
 | [0175-combine-two-tables](https://github.com/thanmai09/leetcode-problems/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/thanmai09/leetcode-problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/thanmai09/leetcode-problems/tree/master/0197-rising-temperature) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thanmai09/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
