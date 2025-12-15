@@ -12,6 +12,7 @@ DSA practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thanmai09/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/thanmai09/leetcode-problems/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
+| [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/thanmai09/leetcode-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -91,6 +92,7 @@ DSA practice
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
+| [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Database
 |  |
 | ------- |
@@ -101,4 +103,28 @@ DSA practice
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thanmai09/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
