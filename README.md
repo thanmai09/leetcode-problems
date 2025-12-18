@@ -16,6 +16,7 @@ DSA practice
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/thanmai09/leetcode-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/thanmai09/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/thanmai09/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |
@@ -88,6 +89,7 @@ DSA practice
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/thanmai09/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
 | ------- |
