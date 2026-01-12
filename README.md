@@ -7,6 +7,7 @@ DSA practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thanmai09/leetcode-problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/thanmai09/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/thanmai09/leetcode-problems/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thanmai09/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -65,6 +66,7 @@ DSA practice
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thanmai09/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/thanmai09/leetcode-problems/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
@@ -108,6 +110,7 @@ DSA practice
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thanmai09/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
