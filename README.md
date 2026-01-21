@@ -24,6 +24,7 @@ DSA practice
 | ------- |
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/thanmai09/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [0782-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/thanmai09/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
@@ -133,4 +134,8 @@ DSA practice
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thanmai09/leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
