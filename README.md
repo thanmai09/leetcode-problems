@@ -106,6 +106,7 @@ DSA practice
 | [0181-employees-earning-more-than-their-managers](https://github.com/thanmai09/leetcode-problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/thanmai09/leetcode-problems/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/thanmai09/leetcode-problems/tree/master/0197-rising-temperature) |
+| [1179-reformat-department-table](https://github.com/thanmai09/leetcode-problems/tree/master/1179-reformat-department-table) |
 ## Dynamic Programming
 |  |
 | ------- |
