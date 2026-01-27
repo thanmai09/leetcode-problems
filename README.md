@@ -49,6 +49,7 @@ DSA practice
 | [0007-reverse-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/thanmai09/leetcode-problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/thanmai09/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/thanmai09/leetcode-problems/tree/master/0202-happy-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -110,6 +111,7 @@ DSA practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/thanmai09/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thanmai09/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -140,4 +142,8 @@ DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thanmai09/leetcode-problems/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/thanmai09/leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
