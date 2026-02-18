@@ -28,6 +28,7 @@ DSA practice
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/thanmai09/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
+| [0771-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/thanmai09/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/thanmai09/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -42,6 +43,7 @@ DSA practice
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/thanmai09/leetcode-problems/tree/master/0202-happy-number) |
+| [0771-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
