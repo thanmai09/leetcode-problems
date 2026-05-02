@@ -10,6 +10,7 @@ DSA practice
 | [0004-median-of-two-sorted-arrays](https://github.com/thanmai09/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/thanmai09/leetcode-problems/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/thanmai09/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thanmai09/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/thanmai09/leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
@@ -42,6 +43,7 @@ DSA practice
 | ------- |
 | [0001-two-sum](https://github.com/thanmai09/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/thanmai09/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/thanmai09/leetcode-problems/tree/master/0202-happy-number) |
 | [0771-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0771-jewels-and-stones) |
@@ -164,5 +166,10 @@ DSA practice
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/thanmai09/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0766-toeplitz-matrix](https://github.com/thanmai09/leetcode-problems/tree/master/0766-toeplitz-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/thanmai09/leetcode-problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
