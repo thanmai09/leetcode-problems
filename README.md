@@ -123,6 +123,7 @@ DSA practice
 | [0196-delete-duplicate-emails](https://github.com/thanmai09/leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/thanmai09/leetcode-problems/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/thanmai09/leetcode-problems/tree/master/0511-game-play-analysis-i) |
+| [0577-employee-bonus](https://github.com/thanmai09/leetcode-problems/tree/master/0577-employee-bonus) |
 | [1179-reformat-department-table](https://github.com/thanmai09/leetcode-problems/tree/master/1179-reformat-department-table) |
 ## Dynamic Programming
 |  |
