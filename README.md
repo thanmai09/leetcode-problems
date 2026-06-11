@@ -15,6 +15,7 @@ DSA practice
 | [0136-single-number](https://github.com/thanmai09/leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
 | [0766-toeplitz-matrix](https://github.com/thanmai09/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -46,6 +47,7 @@ DSA practice
 | [0037-sudoku-solver](https://github.com/thanmai09/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/thanmai09/leetcode-problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -60,6 +62,7 @@ DSA practice
 | [0069-sqrtx](https://github.com/thanmai09/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/thanmai09/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/thanmai09/leetcode-problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/thanmai09/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
@@ -82,6 +85,7 @@ DSA practice
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thanmai09/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/thanmai09/leetcode-problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +105,7 @@ DSA practice
 |  |
 | ------- |
 | [0136-single-number](https://github.com/thanmai09/leetcode-problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +116,7 @@ DSA practice
 | ------- |
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Database
 |  |
