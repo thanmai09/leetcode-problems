@@ -135,6 +135,7 @@ DSA practice
 | [0595-big-countries](https://github.com/thanmai09/leetcode-problems/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/thanmai09/leetcode-problems/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/thanmai09/leetcode-problems/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/thanmai09/leetcode-problems/tree/master/0619-biggest-single-number) |
 | [1179-reformat-department-table](https://github.com/thanmai09/leetcode-problems/tree/master/1179-reformat-department-table) |
 ## Dynamic Programming
 |  |
