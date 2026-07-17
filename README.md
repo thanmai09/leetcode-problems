@@ -11,6 +11,7 @@ DSA practice
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/thanmai09/leetcode-problems/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/thanmai09/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/thanmai09/leetcode-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thanmai09/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/thanmai09/leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
@@ -59,6 +60,7 @@ DSA practice
 | [0002-add-two-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/thanmai09/leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thanmai09/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/thanmai09/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/thanmai09/leetcode-problems/tree/master/0202-happy-number) |
