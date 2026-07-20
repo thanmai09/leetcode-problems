@@ -148,6 +148,7 @@ DSA practice
 | [1179-reformat-department-table](https://github.com/thanmai09/leetcode-problems/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/thanmai09/leetcode-problems/tree/master/1211-queries-quality-and-percentage) |
 | [1407-top-travellers](https://github.com/thanmai09/leetcode-problems/tree/master/1407-top-travellers) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/thanmai09/leetcode-problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Dynamic Programming
 |  |
 | ------- |
