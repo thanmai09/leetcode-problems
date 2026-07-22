@@ -31,6 +31,7 @@ DSA practice
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/thanmai09/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/thanmai09/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [0771-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0782-jewels-and-stones) |
