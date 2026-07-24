@@ -60,6 +60,7 @@ DSA practice
 | ------- |
 | [0002-add-two-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/thanmai09/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thanmai09/leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thanmai09/leetcode-problems/tree/master/0069-sqrtx) |
