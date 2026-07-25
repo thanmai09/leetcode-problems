@@ -69,6 +69,7 @@ DSA practice
 | [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/thanmai09/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/thanmai09/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +123,7 @@ DSA practice
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/thanmai09/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
 | ------- |
