@@ -17,6 +17,7 @@ DSA practice
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/thanmai09/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -67,6 +68,7 @@ DSA practice
 | [0070-climbing-stairs](https://github.com/thanmai09/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/thanmai09/leetcode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/thanmai09/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/thanmai09/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -122,6 +124,7 @@ DSA practice
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/thanmai09/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
