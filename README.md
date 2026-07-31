@@ -39,6 +39,7 @@ DSA practice
 | [0782-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/thanmai09/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/thanmai09/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thanmai09/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
@@ -59,6 +60,7 @@ DSA practice
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/thanmai09/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -92,6 +94,7 @@ DSA practice
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/thanmai09/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/thanmai09/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
@@ -124,6 +127,7 @@ DSA practice
 | ------- |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thanmai09/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +137,7 @@ DSA practice
 | [0628-maximum-product-of-three-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thanmai09/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/thanmai09/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
