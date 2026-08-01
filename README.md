@@ -17,6 +17,7 @@ DSA practice
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/thanmai09/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/thanmai09/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0912-sort-an-array](https://github.com/thanmai09/leetcode-problems/tree/master/0912-sort-an-array) |
@@ -74,6 +75,7 @@ DSA practice
 | [0070-climbing-stairs](https://github.com/thanmai09/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/thanmai09/leetcode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/thanmai09/leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/thanmai09/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -117,6 +119,7 @@ DSA practice
 | ------- |
 | [0002-add-two-numbers](https://github.com/thanmai09/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thanmai09/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/thanmai09/leetcode-problems/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,6 +178,7 @@ DSA practice
 | ------- |
 | [0070-climbing-stairs](https://github.com/thanmai09/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thanmai09/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/thanmai09/leetcode-problems/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,4 +232,8 @@ DSA practice
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/thanmai09/leetcode-problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
