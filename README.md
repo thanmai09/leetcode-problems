@@ -85,6 +85,7 @@ DSA practice
 | [1370-count-number-of-nice-subarrays](https://github.com/thanmai09/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/thanmai09/leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/thanmai09/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/thanmai09/leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/thanmai09/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
@@ -267,4 +268,8 @@ DSA practice
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/thanmai09/leetcode-problems/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/thanmai09/leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
