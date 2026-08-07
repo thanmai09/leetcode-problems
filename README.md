@@ -44,6 +44,7 @@ DSA practice
 | [1205-defanging-an-ip-address](https://github.com/thanmai09/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/thanmai09/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thanmai09/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
@@ -86,6 +87,7 @@ DSA practice
 | [1406-stone-game-iii](https://github.com/thanmai09/leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/thanmai09/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/thanmai09/leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/thanmai09/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
@@ -138,6 +140,7 @@ DSA practice
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thanmai09/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +237,7 @@ DSA practice
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/thanmai09/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Concurrency
 |  |
 | ------- |
@@ -272,4 +276,8 @@ DSA practice
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/thanmai09/leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/thanmai09/leetcode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
