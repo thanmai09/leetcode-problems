@@ -11,6 +11,7 @@ DSA practice
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/thanmai09/leetcode-problems/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/thanmai09/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/thanmai09/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/thanmai09/leetcode-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thanmai09/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/thanmai09/leetcode-problems/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@ DSA practice
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thanmai09/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/thanmai09/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/thanmai09/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/thanmai09/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [0771-jewels-and-stones](https://github.com/thanmai09/leetcode-problems/tree/master/0771-jewels-and-stones) |
@@ -62,6 +64,7 @@ DSA practice
 | [0001-two-sum](https://github.com/thanmai09/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/thanmai09/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/thanmai09/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/thanmai09/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/thanmai09/leetcode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
@@ -154,6 +157,7 @@ DSA practice
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/thanmai09/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/thanmai09/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/thanmai09/leetcode-problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
