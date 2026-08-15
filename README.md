@@ -35,6 +35,7 @@ DSA practice
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/thanmai09/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thanmai09/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thanmai09/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thanmai09/leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/thanmai09/leetcode-problems/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -150,6 +151,7 @@ DSA practice
 | ------- |
 | [0136-single-number](https://github.com/thanmai09/leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/thanmai09/leetcode-problems/tree/master/0268-missing-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thanmai09/leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
